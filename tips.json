@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "title": "Choosing a reptile species",
+    "category": "Planning",
+    "frequency": "As needed",
+    "steps": [
+      "Research adult size, lifespan, diet, humidity and heating requirements before choosing a reptile.",
+      "Find an experienced exotic-animal vet and budget for electricity and equipment.",
+      "Prepare and test the enclosure before bringing an animal home."
+    ],
+    "caution": "Reptiles have very different species-specific needs; do not use one generic setup."
+  },
+  {
+    "id": 2,
+    "title": "Finding a reptile-experienced vet",
+    "category": "Health",
+    "frequency": "As needed",
+    "steps": [
+      "Locate a vet with reptile experience before an emergency.",
+      "Ask about routine checks and emergency availability.",
+      "Keep the practice number and transport container ready."
+    ],
+    "caution": "Seek veterinary advice promptly for illness rather than relying on internet remedies."
+  },
+  {
+    "id": 3,
+    "title": "Understanding captive-bred sourcing",
+    "category": "Planning",
+    "frequency": "As needed",
+    "steps": [
+      "Choose a reputable breeder or rescue that can explain the animal's history.",
+      "Ask for feeding, shedding and health records.",
+      "Check legal ownership and documentation requirements for the species."
+    ],
+    "caution": "Avoid wild-caught animals and never release unwanted reptiles."
+  },
+  {
+    "id": 4,
+    "title": "Selecting an appropriately sized enclosure",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Research minimum adult enclosure dimensions for the exact species.",
+      "Allow room for a thermal gradient, hides and natural behaviours.",
+      "Check doors, ventilation and escape-proof locks."
+    ],
+    "caution": "An enclosure suitable for a hatchling may be too small for an adult."
+  },
+  {
+    "id": 5,
+    "title": "Building a temperature gradient",
+    "category": "Heating",
+    "frequency": "As needed",
+    "steps": [
+      "Provide a warm basking zone and a cooler retreat suited to the species.",
+      "Measure both ends with reliable digital probes.",
+      "Adjust heat sources using appropriate thermostats."
+    ],
+    "caution": "Never heat the whole enclosure to one uniform temperature."
+  },
+  {
+    "id": 6,
+    "title": "Thermostat safety",
+    "category": "Heating",
+    "frequency": "As needed",
+    "steps": [
+      "Connect suitable heating equipment to the correct type of thermostat.",
+      "Position probes according to the manufacturer's instructions.",
+      "Check readings and test the system before adding the animal."
+    ],
+    "caution": "Uncontrolled heat sources can cause fatal overheating or burns."
+  },
+  {
+    "id": 7,
+    "title": "Choosing safe basking lamps",
+    "category": "Heating",
+    "frequency": "As needed",
+    "steps": [
+      "Choose an appropriate heat lamp and secure ceramic fitting.",
+      "Fit a guard where the animal could touch the bulb.",
+      "Check basking-surface temperatures with a suitable thermometer."
+    ],
+    "caution": "Never allow direct contact with exposed hot bulbs."
+  },
+  {
+    "id": 8,
+    "title": "Checking temperatures daily",
+    "category": "Heating",
+    "frequency": "As needed",
+    "steps": [
+      "Read the warm and cool side temperatures each day.",
+      "Compare them with reliable species-specific care guidance.",
+      "Investigate sudden changes or faulty equipment promptly."
+    ],
+    "caution": "An ambient room thermometer alone may not show basking-surface temperatures."
+  },
+  {
+    "id": 9,
+    "title": "Understanding UVB needs",
+    "category": "Lighting",
+    "frequency": "As needed",
+    "steps": [
+      "Research the species' need for UVB lighting and exposure.",
+      "Select an appropriate reptile-rated lamp and mounting distance.",
+      "Follow manufacturer guidance for replacement and safe positioning."
+    ],
+    "caution": "UVB requirements differ; glass and mesh can reduce effective exposure."
+  },
+  {
+    "id": 10,
+    "title": "Planning a day-night light cycle",
+    "category": "Lighting",
+    "frequency": "As needed",
+    "steps": [
+      "Use a timer to create a consistent species-appropriate photoperiod.",
+      "Allow a proper dark period at night.",
+      "Avoid coloured night bulbs that disrupt normal behaviour."
+    ],
+    "caution": "Heating after dark should not require visible light."
+  },
+  {
+    "id": 11,
+    "title": "Monitoring humidity",
+    "category": "Humidity",
+    "frequency": "As needed",
+    "steps": [
+      "Use a reliable digital hygrometer at a representative location.",
+      "Adjust ventilation, water and substrate to the species' needs.",
+      "Watch for persistent condensation or excessively dry conditions."
+    ],
+    "caution": "Too much or too little humidity can cause health problems."
+  },
+  {
+    "id": 12,
+    "title": "Creating a humid hide",
+    "category": "Humidity",
+    "frequency": "As needed",
+    "steps": [
+      "For species that benefit, provide a sheltered hide with appropriately moist material.",
+      "Check it regularly for mould or fouling.",
+      "Let the animal choose between humid and dry areas."
+    ],
+    "caution": "A humid hide is not a substitute for correct enclosure-wide conditions."
+  },
+  {
+    "id": 13,
+    "title": "Safe water provision",
+    "category": "Daily Care",
+    "frequency": "As needed",
+    "steps": [
+      "Provide clean water in a stable bowl sized for the animal.",
+      "Replace contaminated water promptly.",
+      "Clean the bowl with reptile-safe methods and rinse thoroughly."
+    ],
+    "caution": "Water requirements vary; some species need misting or moving water."
+  },
+  {
+    "id": 14,
+    "title": "Choosing safe substrate",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Research species-appropriate substrate and natural digging needs.",
+      "Avoid dusty, sharp or fragranced materials.",
+      "Spot-clean soiled areas and monitor for ingestion."
+    ],
+    "caution": "Impaction risk depends on husbandry, health and substrate choice."
+  },
+  {
+    "id": 15,
+    "title": "Providing multiple hides",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Place secure hides on both warm and cool sides.",
+      "Choose hides that fit the animal snugly but do not trap it.",
+      "Check them during routine cleaning."
+    ],
+    "caution": "An exposed animal may be stressed even when temperatures are correct."
+  },
+  {
+    "id": 16,
+    "title": "Securing branches and rocks",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Use stable, reptile-safe climbing branches and rocks.",
+      "Secure heavy decor so it cannot topple or collapse.",
+      "Check for sharp edges and pinch points."
+    ],
+    "caution": "Unstable decor can crush or injure an animal."
+  },
+  {
+    "id": 17,
+    "title": "Cleaning reptile enclosures safely",
+    "category": "Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Remove waste and soiled substrate promptly.",
+      "Use a disinfectant approved for reptile enclosures according to its label.",
+      "Rinse and dry items as directed before returning the animal."
+    ],
+    "caution": "Never mix cleaning chemicals or use strong household sprays near reptiles."
+  },
+  {
+    "id": 18,
+    "title": "Preventing salmonella spread",
+    "category": "Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Wash hands with soap after touching reptiles or enclosure items.",
+      "Keep reptile equipment away from food-preparation areas.",
+      "Supervise children and avoid kissing reptiles."
+    ],
+    "caution": "Reptiles can carry Salmonella while appearing healthy."
+  },
+  {
+    "id": 19,
+    "title": "Quarantining a new reptile",
+    "category": "Health",
+    "frequency": "As needed",
+    "steps": [
+      "Keep new reptiles separate from existing animals in a suitable enclosure.",
+      "Use dedicated tools and observe appetite, stools and behaviour.",
+      "Ask a reptile vet about testing and quarantine duration."
+    ],
+    "caution": "Never introduce a new animal directly into a shared collection."
+  },
+  {
+    "id": 20,
+    "title": "Reading reptile body language",
+    "category": "Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Observe posture, breathing, movement and hiding habits.",
+      "Learn normal behaviour for the exact species.",
+      "Reduce handling when the animal shows stress."
+    ],
+    "caution": "A quiet reptile is not necessarily comfortable or healthy."
+  },
+  {
+    "id": 21,
+    "title": "Gentle handling basics",
+    "category": "Handling",
+    "frequency": "As needed",
+    "steps": [
+      "Allow a new reptile time to settle before handling.",
+      "Support its body securely and move slowly.",
+      "Keep sessions brief and species-appropriate."
+    ],
+    "caution": "Avoid handling immediately after feeding or during distress."
+  },
+  {
+    "id": 22,
+    "title": "Supervising children around reptiles",
+    "category": "Handling",
+    "frequency": "As needed",
+    "steps": [
+      "Teach children to observe calmly and handle only with supervision.",
+      "Keep reptiles away from faces and mouths.",
+      "Wash hands thoroughly afterwards."
+    ],
+    "caution": "Some reptiles are fragile, fast or capable of biting."
+  },
+  {
+    "id": 23,
+    "title": "Recognising a normal shed",
+    "category": "Shedding",
+    "frequency": "As needed",
+    "steps": [
+      "Learn how often your species sheds and what healthy shedding looks like.",
+      "Check humidity, hydration and appropriate rubbing surfaces.",
+      "Observe eyes, toes and tail for retained skin."
+    ],
+    "caution": "Do not forcibly peel skin; seek veterinary help for constricting retained shed."
+  },
+  {
+    "id": 24,
+    "title": "Supporting a difficult shed",
+    "category": "Shedding",
+    "frequency": "As needed",
+    "steps": [
+      "Check enclosure temperatures and humidity against species guidance.",
+      "Provide an appropriate humid hide if suitable.",
+      "Contact a reptile vet for stuck shed around toes, eyes or tail."
+    ],
+    "caution": "Avoid pulling retained skin or using unapproved oils."
+  },
+  {
+    "id": 25,
+    "title": "Recording weight and growth",
+    "category": "Record Keeping",
+    "frequency": "As needed",
+    "steps": [
+      "Weigh the reptile using a secure container and suitable scale.",
+      "Record date, weight and feeding history.",
+      "Discuss unexpected weight changes with a reptile vet."
+    ],
+    "caution": "Weight trends can reveal problems before they are obvious."
+  },
+  {
+    "id": 26,
+    "title": "Keeping a feeding log",
+    "category": "Record Keeping",
+    "frequency": "As needed",
+    "steps": [
+      "Record food types, amounts, supplements and dates.",
+      "Note appetite changes and any regurgitation.",
+      "Review the log when planning veterinary visits."
+    ],
+    "caution": "Sudden refusal to eat may require veterinary assessment."
+  },
+  {
+    "id": 27,
+    "title": "Spotting urgent warning signs",
+    "category": "Health",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for open-mouth breathing, severe lethargy, weakness or seizures.",
+      "Check equipment readings without delaying urgent care.",
+      "Contact a reptile-experienced vet promptly."
+    ],
+    "caution": "Breathing difficulty, major injury or collapse is an emergency."
+  },
+  {
+    "id": 28,
+    "title": "Recognising mouth problems",
+    "category": "Health",
+    "frequency": "As needed",
+    "steps": [
+      "Look for unusual drooling, swelling or refusal to eat.",
+      "Avoid forcing the mouth open or scraping lesions.",
+      "Arrange a reptile veterinary assessment."
+    ],
+    "caution": "Mouth infections need diagnosis and treatment by a professional."
+  },
+  {
+    "id": 29,
+    "title": "Understanding metabolic bone disease",
+    "category": "Health",
+    "frequency": "As needed",
+    "steps": [
+      "Review UVB, calcium, diet and heating for the species.",
+      "Watch for weakness, deformities or difficulty moving.",
+      "Seek reptile veterinary advice if signs are present."
+    ],
+    "caution": "Do not attempt to correct suspected bone disease with supplements alone."
+  },
+  {
+    "id": 30,
+    "title": "Managing suspected parasites",
+    "category": "Health",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for unexplained weight loss, abnormal stools or persistent poor condition.",
+      "Keep records and request a reptile vet's advice on faecal testing.",
+      "Clean equipment according to veterinary instructions."
+    ],
+    "caution": "Do not give dewormers intended for dogs or cats without a vet."
+  },
+  {
+    "id": 31,
+    "title": "Planning an emergency power cut",
+    "category": "Emergencies",
+    "frequency": "As needed",
+    "steps": [
+      "Keep safe temporary insulation and a backup power plan available.",
+      "Monitor enclosure temperatures during an outage.",
+      "Contact a vet or specialist if safe temperatures cannot be maintained."
+    ],
+    "caution": "Avoid unventilated fuel heaters or placing hot packs directly against reptiles."
+  },
+  {
+    "id": 32,
+    "title": "Transporting reptiles to the vet",
+    "category": "Emergencies",
+    "frequency": "As needed",
+    "steps": [
+      "Use a secure ventilated container suitable for the species.",
+      "Maintain a safe temperature during travel without direct-contact heat sources.",
+      "Take husbandry records and recent photographs of the enclosure."
+    ],
+    "caution": "Never leave a reptile in a parked vehicle."
+  },
+  {
+    "id": 33,
+    "title": "Preventing escapes",
+    "category": "Safety",
+    "frequency": "As needed",
+    "steps": [
+      "Inspect sliding doors, vents and cable openings regularly.",
+      "Use species-appropriate locks and secure lids.",
+      "Count and check animals before and after cleaning."
+    ],
+    "caution": "Escaped reptiles can be injured or become dangerously cold."
+  },
+  {
+    "id": 34,
+    "title": "Bearded dragon basking setup",
+    "category": "Bearded Dragons",
+    "frequency": "As needed",
+    "steps": [
+      "Provide an appropriate high-temperature basking spot with a cooler retreat.",
+      "Use suitable overhead UVB and verify its position.",
+      "Observe whether the dragon can move between zones easily."
+    ],
+    "caution": "Follow current bearded-dragon-specific temperature and UVB guidance."
+  },
+  {
+    "id": 35,
+    "title": "Bearded dragon salad choices",
+    "category": "Bearded Dragons",
+    "frequency": "As needed",
+    "steps": [
+      "Offer a varied selection of suitable leafy greens and vegetables.",
+      "Wash produce and remove spoiled leftovers.",
+      "Match insect feeding to age and veterinary nutrition guidance."
+    ],
+    "caution": "Avoid relying on iceberg lettuce or fruit-heavy diets."
+  },
+  {
+    "id": 36,
+    "title": "Bearded dragon insect feeding",
+    "category": "Bearded Dragons",
+    "frequency": "As needed",
+    "steps": [
+      "Choose appropriately sized, captive-raised feeder insects.",
+      "Gut-load feeders and use supplements according to reptile-vet advice.",
+      "Remove uneaten live insects when needed."
+    ],
+    "caution": "Do not collect insects from areas treated with pesticides."
+  },
+  {
+    "id": 37,
+    "title": "Leopard gecko hide arrangement",
+    "category": "Leopard Geckos",
+    "frequency": "As needed",
+    "steps": [
+      "Provide warm, cool and moist hides in a secure enclosure.",
+      "Check that hides are easy to enter and exit.",
+      "Monitor how the gecko uses each area."
+    ],
+    "caution": "Leopard geckos still need a species-appropriate heat gradient and lighting."
+  },
+  {
+    "id": 38,
+    "title": "Leopard gecko feeding routine",
+    "category": "Leopard Geckos",
+    "frequency": "As needed",
+    "steps": [
+      "Offer suitable live insects of an appropriate size.",
+      "Use a species-appropriate calcium and vitamin schedule.",
+      "Record appetite and weight changes."
+    ],
+    "caution": "Never leave large live insects unattended where they may bite the gecko."
+  },
+  {
+    "id": 39,
+    "title": "Leopard gecko tail safety",
+    "category": "Leopard Geckos",
+    "frequency": "As needed",
+    "steps": [
+      "Support the body gently and avoid grabbing the tail.",
+      "Provide calm hiding spaces to reduce stress.",
+      "Seek veterinary help for injury or a dropped tail."
+    ],
+    "caution": "A dropped tail can regrow differently; never try to pull it off."
+  },
+  {
+    "id": 40,
+    "title": "Crested gecko vertical habitat",
+    "category": "Crested Geckos",
+    "frequency": "As needed",
+    "steps": [
+      "Provide a tall enclosure with secure branches and foliage.",
+      "Create suitable temperature and humidity cycles.",
+      "Ensure ventilation and safe landing areas."
+    ],
+    "caution": "Crested geckos can overheat in temperatures suited to desert reptiles."
+  },
+  {
+    "id": 41,
+    "title": "Crested gecko prepared diet",
+    "category": "Crested Geckos",
+    "frequency": "As needed",
+    "steps": [
+      "Use a complete commercially formulated crested gecko diet as directed.",
+      "Provide fresh water and remove old food promptly.",
+      "Ask a specialist about any supplemental insects."
+    ],
+    "caution": "Fruit alone is not a balanced long-term diet."
+  },
+  {
+    "id": 42,
+    "title": "Corn snake enclosure security",
+    "category": "Corn Snakes",
+    "frequency": "As needed",
+    "steps": [
+      "Use a well-ventilated, escape-proof enclosure with secure doors.",
+      "Provide warm and cool hides and appropriate substrate.",
+      "Check locks after every feeding and cleaning session."
+    ],
+    "caution": "Snakes can squeeze through small gaps."
+  },
+  {
+    "id": 43,
+    "title": "Corn snake feeding safety",
+    "category": "Corn Snakes",
+    "frequency": "As needed",
+    "steps": [
+      "Offer appropriately sized, safely thawed frozen prey using feeding tongs.",
+      "Follow species- and age-appropriate feeding intervals.",
+      "Allow the snake to digest undisturbed."
+    ],
+    "caution": "Do not feed live rodents or microwave frozen prey."
+  },
+  {
+    "id": 44,
+    "title": "Ball python humidity and hides",
+    "category": "Ball Pythons",
+    "frequency": "As needed",
+    "steps": [
+      "Provide snug hides on both ends of a temperature gradient.",
+      "Monitor species-appropriate humidity and ventilation.",
+      "Record shedding and feeding patterns."
+    ],
+    "caution": "Ball pythons may become stressed without secure hides."
+  },
+  {
+    "id": 45,
+    "title": "Ball python feeding refusal",
+    "category": "Ball Pythons",
+    "frequency": "As needed",
+    "steps": [
+      "Review temperature, security, recent handling and shedding.",
+      "Record how long the animal has refused food and monitor weight.",
+      "Consult a reptile vet if weight falls or illness is suspected."
+    ],
+    "caution": "Do not repeatedly offer prey or force-feed without veterinary guidance."
+  },
+  {
+    "id": 46,
+    "title": "Tortoise outdoor security",
+    "category": "Tortoises",
+    "frequency": "As needed",
+    "steps": [
+      "Research whether the species can safely use outdoor space in your climate.",
+      "Provide secure boundaries, shelter and predator protection.",
+      "Check for toxic plants and escape routes."
+    ],
+    "caution": "Different tortoise species have very different climate needs."
+  },
+  {
+    "id": 47,
+    "title": "Tortoise diet variety",
+    "category": "Tortoises",
+    "frequency": "As needed",
+    "steps": [
+      "Identify the tortoise species before planning its diet.",
+      "For grazing species, offer suitable weeds and leafy plants with appropriate fibre.",
+      "Seek specialist advice on calcium and UVB provision."
+    ],
+    "caution": "Fruit-rich diets are unsuitable for many commonly kept tortoises."
+  },
+  {
+    "id": 48,
+    "title": "Tortoise hibernation decisions",
+    "category": "Tortoises",
+    "frequency": "As needed",
+    "steps": [
+      "Confirm the exact species and whether brumation is appropriate.",
+      "Arrange a reptile-vet health check and species-specific plan.",
+      "Never attempt hibernation without reliable guidance."
+    ],
+    "caution": "Some tortoise species must not hibernate; unsafe temperatures can be fatal."
+  },
+  {
+    "id": 49,
+    "title": "Aquatic turtle basking access",
+    "category": "Aquatic Turtles",
+    "frequency": "As needed",
+    "steps": [
+      "Provide a fully dry, easy-to-reach basking platform.",
+      "Position suitable heat and UVB lighting safely above it.",
+      "Keep the water clean with adequate filtration."
+    ],
+    "caution": "Turtles must be able to dry completely while basking."
+  },
+  {
+    "id": 50,
+    "title": "Aquatic turtle water quality",
+    "category": "Aquatic Turtles",
+    "frequency": "As needed",
+    "steps": [
+      "Use filtration sized for the species and water volume.",
+      "Test water quality and perform regular conditioned water changes.",
+      "Keep electrical equipment secure and protected from splashes."
+    ],
+    "caution": "Turtles produce substantial waste and can outgrow small tanks."
+  },
+  {
+    "id": 51,
+    "title": "Species-specific cohabitation",
+    "category": "Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Research whether your reptile species is naturally solitary.",
+      "Provide separate enclosures unless a qualified specialist advises otherwise.",
+      "Watch for competition over heat, hides and food."
+    ],
+    "caution": "Many reptiles should not be housed together, even if they appear calm."
+  },
+  {
+    "id": 52,
+    "title": "Planning lifelong reptile care",
+    "category": "Planning",
+    "frequency": "As needed",
+    "steps": [
+      "Check expected lifespan and adult housing costs.",
+      "Arrange trusted care for holidays and emergencies.",
+      "Keep written feeding, heating and veterinary instructions."
+    ],
+    "caution": "Some reptiles live for decades and require long-term specialist care."
+  }
+]

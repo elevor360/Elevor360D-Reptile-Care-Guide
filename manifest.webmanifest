@@ -1,0 +1,18 @@
+{
+  "name": "Elevor360D Reptile Care Guide",
+  "short_name": "Reptile Care",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f0",
+  "theme_color": "#205946",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "Free reptile care and wellbeing guide"
+}
